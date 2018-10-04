@@ -14,7 +14,7 @@ switch ($signal) {
     echo "caution!";
     break;
   default:
-    echo "wrong signall";
+    echo "wrong signallll";
     break;
   }
 
